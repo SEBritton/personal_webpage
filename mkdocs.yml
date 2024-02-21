@@ -1,7 +1,7 @@
-site_name: Sarah Britton
-site_description: Professional website
+site_name: Sarah Britton Webpage
+site_description: Personal webpage
 site_author: Sarah Britton
-site_url: https://SEBritton.github.io/Sarah_Britton
+site_url: https://SEBritton.github.io/personal_webpage
 
 # Repository
 repo_name: personal_webpage
@@ -51,7 +51,6 @@ icon:
 # Page tree
 nav:
 - Home: index.md
-
 
 # Extra Plugins
 plugins:
